@@ -2,6 +2,8 @@
 
 A modern social media platform where posts are organized into meaningful "threads" of related moments, creating context-rich narratives instead of isolated posts.
 
+🔗 **Repository**: [https://github.com/yksanjo/moment-threads](https://github.com/yksanjo/moment-threads)
+
 ## Features
 
 - **Thread-based Organization** - Group related posts into story threads

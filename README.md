@@ -1,5 +1,12 @@
 # moment-threads
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/moment-threads/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/moment-threads/actions)
+![License](https://img.shields.io/github/license/yksanjo/moment-threads)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/moment-threads)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/moment-threads)
+
 ## Detailed Description
 
 moment-threads is maintained as an industry-grade software project with production-ready engineering practices.  
